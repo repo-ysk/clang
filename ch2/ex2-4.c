@@ -7,8 +7,8 @@ int main(void)
 	printf("Enter the radius of a circle : ");
 	scanf("%f",&r);
 	s = 3.14159 * r * r;
-	printf("Area is %f\n",s);		// º¯¼ö S °ª Ãâ·Â 
-	printf("Diameter is %f\n",2*r);		// ¼ö½Ä 2*r °ª Ãâ·Â 
+	printf("Area is %f\n",s);		// ë³€ìˆ˜ S ê°’ ì¶œë ¥ 
+	printf("Diameter is %f\n",2*r);		// ìˆ˜ì‹ 2*r ê°’ ì¶œë ¥ 
 	
 	return 0;
 }	
